@@ -1,4 +1,8 @@
-# Instructions
+## Prerequisites
+1. Install node.js https://nodejs.org/en
+2. Install Visual Studio Code https://code.visualstudio.com/
+
+## Development Instructions
 
 1. Clone the application
 2. Open the folder in Visual Studio Code
